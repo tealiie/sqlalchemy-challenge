@@ -14,6 +14,8 @@ The following analysis is completed using SQLAlchemy ORM queries, Pandas, and Ma
 * Plot the results using the DataFrame plot method.
 * Use Pandas to print the summary statistics for the precipitation data.
 
+![Screen Shot 2021-08-27 at 2 05 13 PM](https://user-images.githubusercontent.com/19372031/131070419-749ab06c-6d84-4ec2-b5b7-ba1dab87ba34.png)
+
 ### Station Analysis
 * Design a query to calculate the total number of stations.
 * Design a query to find the most active stations.
@@ -23,6 +25,8 @@ The following analysis is completed using SQLAlchemy ORM queries, Pandas, and Ma
 * Design a query to retrieve the last 12 months of temperature observation data (TOBS).
   * Filter by the station with the highest number of observations.
   * Plot the results as a histogram with bins=12.
+
+![Screen Shot 2021-08-27 at 2 05 25 PM](https://user-images.githubusercontent.com/19372031/131070438-7fec705f-c968-4dad-9ab9-dcc29d5e9390.png)
 
 ## Climate App
 After the completed initial analysis, design a Flask API based on the queries that you have just developed.
